@@ -16,6 +16,7 @@ An Electron application with Vue and TypeScript
    home=https://npmmirror.com
    electron_mirror=https://registry.npmmirror.com/-/binary/electron/
    electron_builder_binaries_mirror=https://registry.npmmirror.com/-/binary/electron-builder-binaries/
+3. 安装cnpm: npm i cnpm -g
 
 ### Install
 
